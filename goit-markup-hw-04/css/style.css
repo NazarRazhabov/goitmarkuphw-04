@@ -1,0 +1,311 @@
+h1{
+    margin-left: 115px;
+    margin-top: -90px;
+    border-radius: 20px;
+}
+
+head{
+  background-color: #F5F4FA;
+}
+
+.text1{
+background-color: white;
+-webkit-background-clip: text;
+-webkit-text-fill-color: transparent;
+margin-left: 282px;
+font-size: 50px;
+margin-top: 50px;
+width: 1500px;
+border-radius: 20px;
+}
+
+.block{
+
+    background: url(../images/ImgPeoplle.png);
+
+    width: 1520px;
+    height: 600px;
+    left: 0px;
+    top: 80px;
+    border-radius: 20px;
+
+
+}
+
+.button{
+
+    background-color: white;
+
+    margin-left: 680px;
+    margin-right: 720px;
+    margin-top: -350px;
+    font-size: 30px;
+    border: 0;
+    border-radius: 15px;
+    font-size: 20px;
+}
+
+.b1{
+  background: url(../images/Feature\ 1icons3.jpg);
+  position: absolute;
+width: 270px;
+height: 248px;
+left: 115px;
+top: 1074px;
+}
+
+.g1{
+  margin-top: 430px;
+    margin-left: 115px;
+    margin-right: 1115;
+    position: absolute;
+}
+
+.b2{
+    background: url(../images/Feature\ 2icons3.jpg);
+    position: absolute;
+width: 270px;
+height: 248px;
+left: 415px;
+top: 1074px;
+}
+
+.g2{
+  margin-top: 430px;
+    margin-left: 495px;
+    margin-right: 715px;
+    position: absolute;
+}
+
+.b3{
+  background: url(../images/Feature\ 3icons3.jpg);
+  position: absolute;
+  width: 270px;
+  height: 248px;
+  left: 715px;
+top: 1074px;
+}
+
+.g3{
+  margin-top: 430px;
+    margin-left: 815px;
+    margin-right: 450px;
+    position: absolute;
+}
+
+.b4{
+    background: url(../images/Feature\ 4icons3.jpg);
+    position: absolute;
+width: 270px;
+height: 248px;
+left: 1015px;
+top: 1074px;
+}
+
+.g4{
+  margin-top: 430px;
+    margin-left: 1180px;
+    position: absolute;
+}
+
+.j2{
+    margin-left: 645px;
+    font-size: 30px;
+    margin-top: 796px;
+    margin-right: 215px;
+    
+}
+
+.j3{
+    background: url(../images/imgphoto1.png);
+    width: 370px;
+    height: 294px;
+    margin-top: 111px;
+    margin-left: 215px;
+    margin-right: 1015px;
+}
+
+.j4{
+    background: url(../images/imgphoto2.png);
+    width: 370px;
+    height: 294px;
+    margin-top: -312px;
+    margin-left: 615px;
+    margin-right: 615px;
+}
+
+.j5{
+    background: url(../images/imgphoto3.png);
+    width: 370px;
+    height: 294px;
+    margin-left: 1015px;
+    margin-top: -312px;
+    margin-right: 215px;
+}
+
+  
+  h1 {
+    font-family:monospace;
+  }
+
+  .block6{
+    margin-left: 468px;
+    margin-top: 100px;
+    font-size: 20px;
+    margin-right: 468px;
+  }
+
+
+.j7{
+  background: url(../images/team\ card\ 1group.png);
+  width: 270px;
+  height: 428px;
+  margin-left: 215px;
+  margin-top: 125px;
+  margin-right: 1115px;
+}
+
+.j8{
+  background: url(../images/team\ card\ 2group.png);
+  width: 270px;
+  height: 428px;
+  margin-top: -446px;
+  margin-left: 515px;
+  margin-right: 815px;
+}
+
+.j9{
+  background: url(../images/team\ card\ 3group.png);
+  width: 270px;
+  height: 428px;
+  margin-top: -446px;
+  margin-left: 815px;
+  margin-right: 515px;
+}
+
+.j10{
+  background: url(../images/team\ card\ 4group.png);
+  width: 270px;
+  height: 428px;
+  margin-top: -446px;
+  margin-left: 1115px;
+  margin-right: 215px;
+}
+
+.j14{
+  background-color: white;
+  width: 1500px;
+  height: 80px;
+}
+
+.j11{
+  margin-top: -20px;
+  margin-left: 453px;
+}
+
+.j12{
+  margin-top: -45px;
+  margin-left: 600px;
+}
+
+.j13{
+  margin-top: -45px;
+  margin-left: 779px;
+}
+
+.j15{
+  margin-left: 978px;
+  margin-top: -45px;
+
+}
+
+.j6{
+  margin-left: 212px;
+}
+
+.j16{
+  margin-left: 1230px;
+  margin-top: -45px;
+}
+
+.j17{
+  background-color: white;
+  width: 1500px;
+  height: 450px;
+  margin-top: 0px;
+  margin-left: 0px;
+  border-radius: 20px;
+}
+
+.j18{
+  font-size: 40px;
+  margin-left: 570px;
+  margin-top: -400px;
+}
+
+
+
+.j25{
+  background: #7f7f7f;
+  width: 1500px;
+  height: 252px;
+  margin-top: 140px;
+  margin-left: 0px;
+}
+
+.j26{
+  background-color: white;
+  -webkit-background-clip: text;
+  margin-top: -230px;
+  margin-left: 115px;
+  font-size: 25px;
+}
+
+.j27{
+  background-color: white;
+  -webkit-background-clip: text;
+  margin-top: 50px;
+  font-size: -40px;
+  margin-left: 115px;
+  margin-right: 985px;
+}
+
+.j28{
+  background-color: white;
+  -webkit-background-clip: text;
+  margin-left: 616px;
+  margin-top: -145px;
+}
+
+.j29{
+  background: url(../images/EllipseIcons3-1.png);
+  width: 44px;
+  height: 44px;
+  margin-left: 616px;
+  margin-top: 30px;
+}
+
+.j30{
+  background: url(../images/EllipseIcons3-2.png);
+  width: 44px;
+  height: 44px;
+  margin-left: 680px;
+  margin-top: -62px;
+}
+
+.j31{
+  background: url(../images/EllipseIcons3-3.png);
+  width: 44px;
+  height: 44px;
+  margin-left: 740px;
+  margin-top: -63px;
+}
+
+.j32{
+ background: url(../images/EllipseIcons3.png);
+ width: 44px;
+ height: 44px;
+ margin-left: 800px;
+ margin-top: -62px;
+}
+
